@@ -52,6 +52,7 @@ def hola():
 ### Matemáticas: 
 La ecuación de Einstein es: $E = mc^2$
 
+### Imagenes: 
 ![Foto_1](GettyImages-1464758942.webp)
 ![Foto_2](london.gif)
 
