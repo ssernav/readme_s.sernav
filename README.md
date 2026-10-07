@@ -57,8 +57,8 @@ La ecuación de Einstein es: $E = mc^2$
 ![Foto_2](london.gif)
 
 ### Pie de Pagina
-<detail>
-
+<details>
   <summary> Haz clic para desplegar más información </summary>
+  Información escondida
 
-</detail>
+</detaisl>
